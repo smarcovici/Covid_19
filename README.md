@@ -13,7 +13,7 @@ alors qu'en l'absence de tests à grande échelle, les cas testés positifs ne s
 - le département de la Haute-Marne dont la tendance repart à la hausse (ORANGE GRAS),
 - les 8 départements dont les hospitalisations sont élevée dont mais la tendance est à la baisse (ORANGE).
 
-### le choix du confinement à l'échelle national se confirme :
+### Le choix du confinement à l'échelle national se confirme :
 Même si l'écart entre les départements (VERT/ORANGE) est très important (facteur 10):
 - la tendance a d'abord été globalement à la hausse : ce qui justifie à postériori le choix du confinement,
 - ensuite à partir du 15 avril, la tendance est fortement à la baisse : ce qui montre l'impact du confinement.
