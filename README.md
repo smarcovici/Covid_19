@@ -13,8 +13,9 @@ alors qu'en l'absence de tests à grande échelle, les cas testés positifs ne s
 - le département de la Haute-Marne dont la tendance repart à la hausse (ORANGE GRAS),
 - les 8 départements dont les hospitalisations sont élevée dont mais la tendance est à la baisse (ORANGE).
 
-Même si l'écart entre ces derniers et les départements très peu touchés (VERT) est très important (facteur 10):
-- jusqu'au 25 mars, la tendance a été à la hausse sur l'ensemble des départements : ce qui justifie à postériori le choix de confinement,
-- à partir du 15 avril, la tendance est fortement à la baisse : ce qui montre l'impact du confinement.
+### le choix du confinement à l'échelle national se confirme :
+Même si l'écart entre les départements (VERT/ORANGE) est très important (facteur 10):
+- la tendance a d'abord été globalement à la hausse : ce qui justifie à postériori le choix du confinement,
+- ensuite à partir du 15 avril, la tendance est fortement à la baisse : ce qui montre l'impact du confinement.
 
 ![Courbe de l'évolution des hospitalisation par département](https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Images/Evolution%20des%20hospitalisations%20par%20departement_France.png)
