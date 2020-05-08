@@ -2,11 +2,13 @@
 
 ## Evolution des hospitalisations pendant le confinement du 18 mars au 11 mai 2020
 
-### L'objectif est de comparer l'évolution des départements :
-- sur le nombre d'hospitalisation ramené au nombre d'habitant pour traduire al densité de contamination,
-- sur le nombre d'entrée remené au nombre d'hospitalisation pour traduire la vitesse de propagation du virus
+### les départements ont été comparés sur :
+- le nombre d'hospitalisation ramené au nombre d'habitant pour traduire la densité de contamination,
+- le nombre d'entrée à l'hopital remené au nombre d'hospitalisation pour traduire la vitesse de propagation du virus
 
-Le choix a été de dire que les hospitalisations sont un reflet plus exhaustif de la tendance des contanimations pour lesquelles l'estimation n'est pas faible en l'absence de tests à grande échelle.
+Le choix a été de dire que les hospitalisations sont un reflet proportionnel à la tendance des contaminations
+
+Alors qu'en l'absence de tests à grande échelle, les cas testés positifs ne sont peut-être pas le reflet des contaminations.
 
 ### Bilan au 7 mai : deux catégories de département restent critiques (cf. courbe)
 - le département de la Haute-Marne dont la tendance repart à la hausse (ORANGE GRAS),
