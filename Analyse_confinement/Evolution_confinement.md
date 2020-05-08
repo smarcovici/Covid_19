@@ -1,5 +1,5 @@
 
-# Analyse de la progression du COVID19 en France
+# Progression du COVID19 pendant la phase de confinement en France
 
 ## Données utilisées
 - nb hospitalisation, retour à domicile et décès quotidien sur le COVID19 sur le site data.gouv.fr
@@ -27,12 +27,10 @@
 ## Visualisation des résultats
 
 ###  Evolutions des hospitalisations par département
-- en ROUGE, les départements les plus critiques   : 
-    - le nombre d'hospitalisation est elevé
-    - et le nombre d'entrée est elevé ou repart à la hausse
- - en ORANGE, les départements pour lesquels il faut être vigilant car :
-     - soit le nombre d'hospitalisation reste élevé
-     - soit le nombre d'entrée est à la hausse
+- en ROUGE, les départements où le virus se propage car le nombre d'hospitalisation et d'entrée sont elevés 
+- en ORANGE, les départements pour lesquels il faut être vigilant car :
+     - soit le virus se propage peu (peu d'entrée) mais le nombre d'hospitalisation est encore élevé
+     - soit le nombre d'hospitalisation est dans la moyenne mais le virus se propage (beaucoup d'entrée)
  - en GRIS, les départements avec une évolution proche de la moyenne nationale (en NOIR)
  - en VERT, les département avec une évolution plus faible que la moyenne.
 
@@ -41,10 +39,10 @@
 
 
 ### Tableau détaillé des départements critiques
-- hosp : nb d'hospitalisation
-- Thosp : nb d'hospitalisation ramené à 100 000 habitants
-- Treprodmoy : nb d'entrées moyen sur 1 semaine ramené à 100 hospitalisation
-- tendance  : augmentation ou baisse quotidienne du nb d'entrées ramené à 100 hospitalisation
+- hosp : nombre d'hospitalisation du département (dep)
+- Thosp : nombre d'hospitalisation pour 100 000 habitants
+- Treprodmoy : nombre d'entrée moyenné sur 1 semaine pour 100 hospitalisation
+- tendance  : augmentation/baisse quotidienne du nombre d'entrée pour 100 hospitalisation
 
 
 
@@ -176,10 +174,8 @@
 ### Commentaires à la date du 7 mai 2020 :
 
 Les départements critiques sont :
-- la Seine-Saint-Denis avec :
-    - un nombre d'hospitalisation élevé
-    - et une diminution très lente des entrées
-- la Haute-Marne dont les entées qui repart à la hausse
+- les 8 premiers départements ci-dessus dont le taux d'hospitalisation est élevé mais avec une tendance à la baisse.
+- la Haute-Marne dont les entrées sont repartis à la hausse (ORANGE Epais sur la courbe ci-dessus)
 
 ### Evolution des entrées en hospitalisation par département
 
@@ -194,35 +190,47 @@ ce qui traduit une accélération de la circulation du virus
 - après mi-avril : le nombre d'entrée a fortement baissé par rapport aux nombres d'hospitalisation
 ce qui traduit une décélération de la circulation du virus
 
-### Evolution pour la France entière des entrées et hospitalisations
+### Evolution des hospitalisations pour la France entière
 
 
 ![png](Evolution_confinement_files/Evolution_confinement_21_0.png)
 
 
-### Evolution détaillée pour un département des hospitalisation et des entrées
+### Evolution des hospitalisations sur quelques départements
+
+#### Département de la Seine-Saint-Denis : les hospitalisations sont élevée mais la tendance est à la baisse
+c'est un exemple de département dont :
+- le nombre d'hospitalisation est certes élevé (BLEUE sur le deuxième graphique)
+- mais le nombre d'entrée est devenu faible (GRIS sur le 1er graphique)
+Ainsi la tendance est à la baisse (BLEU sur le 1er graphique)
 
 
-    interactive(children=(Dropdown(description='dep', options=('Ain', 'Aisne', 'Allier', 'Alpes-de-Haute-Provence'…
-
-
-
-
-
-    <function __main__.courbes_departement(dep)>
-
-
-
-
-![png](Evolution_confinement_files/Evolution_confinement_24_0.png)
+![png](Evolution_confinement_files/Evolution_confinement_25_0.png)
 
 
 
-![png](Evolution_confinement_files/Evolution_confinement_24_1.png)
+![png](Evolution_confinement_files/Evolution_confinement_25_1.png)
 
 
 
-![png](Evolution_confinement_files/Evolution_confinement_24_2.png)
+![png](Evolution_confinement_files/Evolution_confinement_25_2.png)
+
+
+#### Département de la Haute-Marne : les entrées repartent à la hausse
+- le nombre d'entrée repart à la hausse (GRIS/BLEU sur le 1er graphique)
+- Cette hausse est élevée par rapport à la tendance des autres département (BLEU 3e graphique)
+- mais le nombre d'hospitalisation est encore dans la tendance moyenne (BLEU 2e graphique)
+
+
+![png](Evolution_confinement_files/Evolution_confinement_27_0.png)
+
+
+
+![png](Evolution_confinement_files/Evolution_confinement_27_1.png)
+
+
+
+![png](Evolution_confinement_files/Evolution_confinement_27_2.png)
 
 
 ## Enregistrement
@@ -230,13 +238,23 @@ ce qui traduit une décélération de la circulation du virus
 ### Sous Markdown
 
     [NbConvertApp] Converting notebook Evolution_confinement.ipynb to markdown
-    [NbConvertApp] Writing 2633 bytes to Evolution_confinement.md
+    [NbConvertApp] Support files will be in Evolution_confinement_files\
+    [NbConvertApp] Making directory Evolution_confinement_files
+    [NbConvertApp] Making directory Evolution_confinement_files
+    [NbConvertApp] Making directory Evolution_confinement_files
+    [NbConvertApp] Making directory Evolution_confinement_files
+    [NbConvertApp] Making directory Evolution_confinement_files
+    [NbConvertApp] Making directory Evolution_confinement_files
+    [NbConvertApp] Making directory Evolution_confinement_files
+    [NbConvertApp] Making directory Evolution_confinement_files
+    [NbConvertApp] Making directory Evolution_confinement_files
+    [NbConvertApp] Writing 7161 bytes to Evolution_confinement.md
     
 
 ### Sous HTML
 
     [NbConvertApp] Converting notebook Evolution_confinement.ipynb to html
-    [NbConvertApp] Writing 283796 bytes to Evolution_confinement.html
+    [NbConvertApp] Writing 2333808 bytes to Evolution_confinement.html
     
 
 ## Fin
