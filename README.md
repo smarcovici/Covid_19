@@ -11,7 +11,7 @@ alors qu'en l'absence de tests à grande échelle, les cas testés positifs ne s
 
 ### Au 7 mai, deux catégories de département nécessitent de la vigilance (cf. courbe)
 - le département de la Haute-Marne dont la tendance repart à la hausse (ORANGE GRAS),
-- les 8 départements dont les hospitalisations sont élevée dont mais la tendance est à la baisse (ORANGE).
+- les 8 départements dont les hospitalisations sont élevées mais dont  la tendance est à la baisse (ORANGE).
 
 ### Le choix du confinement à l'échelle national se confirme :
 Même si l'écart entre les départements (VERT/ORANGE) est très important (facteur 10):
