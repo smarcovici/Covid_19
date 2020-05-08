@@ -177,7 +177,7 @@ Les départements critiques sont :
 - les 8 premiers départements ci-dessus dont le taux d'hospitalisation est élevé mais avec une tendance à la baisse.
 - la Haute-Marne dont les entrées sont repartis à la hausse (ORANGE GRAS sur la courbe ci-dessus)
 
-De plus il exsite de nombreux départements (VERT) qui ont été relativement peu touchés (facteur 10).
+De plus il exsite de nombreux départements (VERT) qui ont été relativement peu touchés (10 fois moins).
 
 ### Evolution des entrées en hospitalisation par département
 
@@ -190,8 +190,8 @@ De plus il exsite de nombreux départements (VERT) qui ont été relativement pe
 - jusqu'au 25 mars, tous les départements ont eu une augmentation significative des entrées :
     - cela traduit une accélération de la circulation du virus,
     - et justifie à posteriori le passage en confinement pour la france entière,
-- à partir du 15 avril : le nombre d'entrée a globalement fortement baissé par rapport aux nombres d'hospitalisation
-    - cela traduit une capacité du virus à beaucoup moins se transmettre (facteur 7)
+- à partir du 15 avril, le nombre d'entrée a globalement fortement baissé par rapport aux nombres d'hospitalisation
+    - cela traduit une capacité du virus à beaucoup moins se transmettre (8 fois moins d'entrée),
     - ce qui montre l'impact significatif d'un confinement.
 
 ### Evolution des hospitalisations pour la France entière
@@ -205,8 +205,7 @@ De plus il exsite de nombreux départements (VERT) qui ont été relativement pe
 #### Département de la Seine-Saint-Denis : les hospitalisations sont élevée mais la tendance est à la baisse
 c'est un exemple de département dont :
 - le nombre d'hospitalisation est certes élevé (BLEUE sur le deuxième graphique)
-- mais le nombre d'entrée est devenu faible (GRIS sur le 1er graphique)
-Ainsi la tendance est à la baisse (BLEU sur le 1er graphique)
+- mais le nombre d'entrée est devenu faible (GRIS sur le 1er graphique) ce qui se traduit par une tendance à la baisse (BLEU sur le 1er graphique)
 
 
 ![png](Evolution_confinement_files/Evolution_confinement_25_0.png)
@@ -252,13 +251,13 @@ Ainsi la tendance est à la baisse (BLEU sur le 1er graphique)
     [NbConvertApp] Making directory Evolution_confinement_files
     [NbConvertApp] Making directory Evolution_confinement_files
     [NbConvertApp] Making directory Evolution_confinement_files
-    [NbConvertApp] Writing 7171 bytes to Evolution_confinement.md
+    [NbConvertApp] Writing 7459 bytes to Evolution_confinement.md
     
 
 ### Sous HTML
 
     [NbConvertApp] Converting notebook Evolution_confinement.ipynb to html
-    [NbConvertApp] Writing 2333818 bytes to Evolution_confinement.html
+    [NbConvertApp] Writing 2334164 bytes to Evolution_confinement.html
     
 
 ## Fin
