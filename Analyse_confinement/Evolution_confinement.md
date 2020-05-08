@@ -175,7 +175,9 @@
 
 Les départements critiques sont :
 - les 8 premiers départements ci-dessus dont le taux d'hospitalisation est élevé mais avec une tendance à la baisse.
-- la Haute-Marne dont les entrées sont repartis à la hausse (ORANGE Epais sur la courbe ci-dessus)
+- la Haute-Marne dont les entrées sont repartis à la hausse (ORANGE GRAS sur la courbe ci-dessus)
+
+De plus il exsite de nombreux départements (VERT) qui ont été relativement peu touchés (facteur 10).
 
 ### Evolution des entrées en hospitalisation par département
 
@@ -185,10 +187,12 @@ Les départements critiques sont :
 
 ### Commentaires
 2 phases dans l'évolution :
-- avant fin mars : tous les départements ont eu un nombre élevé d'entrée par rapport aux hospitalisations
-ce qui traduit une accélération de la circulation du virus
-- après mi-avril : le nombre d'entrée a fortement baissé par rapport aux nombres d'hospitalisation
-ce qui traduit une décélération de la circulation du virus
+- jusqu'au 25 mars, tous les départements ont eu une augmentation significative des entrées :
+    - cela traduit une accélération de la circulation du virus,
+    - et justifie à posteriori le passage en confinement pour la france entière,
+- à partir du 15 avril : le nombre d'entrée a globalement fortement baissé par rapport aux nombres d'hospitalisation
+    - cela traduit une capacité du virus à beaucoup moins se transmettre (facteur 7)
+    - ce qui montre l'impact significatif d'un confinement.
 
 ### Evolution des hospitalisations pour la France entière
 
@@ -233,7 +237,7 @@ Ainsi la tendance est à la baisse (BLEU sur le 1er graphique)
 ![png](Evolution_confinement_files/Evolution_confinement_27_2.png)
 
 
-## Enregistrement
+## Sauvegarde des fichiers
 
 ### Sous Markdown
 
@@ -248,13 +252,13 @@ Ainsi la tendance est à la baisse (BLEU sur le 1er graphique)
     [NbConvertApp] Making directory Evolution_confinement_files
     [NbConvertApp] Making directory Evolution_confinement_files
     [NbConvertApp] Making directory Evolution_confinement_files
-    [NbConvertApp] Writing 7161 bytes to Evolution_confinement.md
+    [NbConvertApp] Writing 7171 bytes to Evolution_confinement.md
     
 
 ### Sous HTML
 
     [NbConvertApp] Converting notebook Evolution_confinement.ipynb to html
-    [NbConvertApp] Writing 2333808 bytes to Evolution_confinement.html
+    [NbConvertApp] Writing 2333818 bytes to Evolution_confinement.html
     
 
 ## Fin
