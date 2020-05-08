@@ -13,6 +13,6 @@ alors qu'en l'absence de tests à grande échelle, les cas testés positifs ne s
 - le département de la Haute-Marne dont la tendance repart à la hausse (ORANGE GRAS),
 - les 8 départements dont les hospitalisations sont élevée dont mais la tendance est à la baisse (ORANGE).
 
-Il existe de nombreux départements (en VERT) qui ont été 10 fois moins touchés que ces derniers.
+L'écart entre ces derniers et les départements très peu touchés (VERT) a été très important (facteur 10).
 
 ![Courbe de l'évolution des hospitalisation par département](https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Images/Evolution%20des%20hospitalisations%20par%20departement_France.png)
