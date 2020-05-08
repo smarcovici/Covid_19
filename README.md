@@ -4,6 +4,6 @@
 
 L'objectif est de comparer les départements :
 - sur l'évolution du nombre d'hospitalisation en le ramenant au nombre d'habitant : ce qui traduit la densité de contamination
-- et sur l'évolution du nombre d'entrée en les ramenant au nombre d'hospitalisation : ce qui traduit la falcuté du virus à se transmettre
+- sur l'évolution du nombre d'entrée en les ramenant au nombre d'hospitalisation : ce qui traduit la falcuté du virus à se transmettre pour une même nombre de contamination.
 
 Remarques : les hospitalisations sont le reflet de la tendance des contanimations qui en l'absence de tests exhaustifs ne sont pas réellement représentatives.
