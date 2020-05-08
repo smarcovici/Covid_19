@@ -2,11 +2,11 @@
 
 ## Evolution des hospitalisations par département pendant le confinement du 18 mars au 11 mai 2020
 
-### Les départements ont été comparés sur l'évolution des hospitalisations :
+### L'évolution des hospitalisations a été comparé par département :
 - le nombre d'hospitalisation a été ramené au nombre d'habitant pour traduire la densité de contamination,
 - le nombre d'entrée à l'hopital a été remené au nombre d'hospitalisation pour traduire la vitesse de propagation du virus
 
-Le choix a été de dire que les hospitalisations sont un reflet fiable et proportionnel de la tendance des contaminationsa
+Le choix a été de dire que les hospitalisations sont un reflet fiable et proportionnel de la tendance des contaminations
 alors qu'en l'absence de tests à grande échelle, les cas testés positifs ne sont pas le reflet des contaminations.
 
 ### Au 7 mai, deux catégories de département nécessitent de la vigilance (cf. courbe)
