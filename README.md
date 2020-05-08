@@ -16,6 +16,6 @@ alors qu'en l'absence de tests à grande échelle, les cas testés positifs ne s
 ### Le choix du confinement à l'échelle national se confirme :
 Même si l'écart entre les départements (VERT/ORANGE) est très important (facteur 10):
 - la tendance a d'abord été globalement à la hausse : ce qui justifie à postériori le choix du confinement,
-- ensuite à partir du 15 avril, la tendance est fortement à la baisse : ce qui montre l'impact du confinement.
+- ensuite à partir du 15 avril, la tendance est  à la baisse : ce qui montre l'impact du confinement.
 
 ![Courbe de l'évolution des hospitalisation par département](https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Images/Evolution%20des%20hospitalisations%20par%20departement_France.png)
