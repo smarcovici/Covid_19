@@ -237,11 +237,11 @@ ce qui traduit une décélération de la circulation du virus
     [NbConvertApp] Making directory Evolution_confinement_files
     [NbConvertApp] Making directory Evolution_confinement_files
     [NbConvertApp] Making directory Evolution_confinement_files
-    [NbConvertApp] Writing 11514 bytes to Evolution_confinement.md
+    [NbConvertApp] Writing 6149 bytes to Evolution_confinement.md
     
 
 ### Sous HTML
 
     [NbConvertApp] Converting notebook Evolution_confinement.ipynb to html
-    [NbConvertApp] Writing 1312707 bytes to Evolution_confinement.html
+    [NbConvertApp] Writing 1307713 bytes to Evolution_confinement.html
     
