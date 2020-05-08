@@ -1,9 +1,18 @@
-# Analyse de l'évolution du Covid 19 en France
+# Evolution de l'épidémie de Covid 19 en France
 
-## 1ère étude : analyse de l'évolution des hospitalisations pendant la phase de confinement du 18 mars au 11 mai 2020
+## Evolution des hospitalisations par département pendant le confinement du 18 mars au 11 mai 2020
 
-L'objectif est de comparer les départements :
-- sur l'évolution du nombre d'hospitalisation en le ramenant au nombre d'habitant : ce qui traduit la densité de contamination
-- sur l'évolution du nombre d'entrée en les ramenant au nombre d'hospitalisation : ce qui traduit la falcuté du virus à se transmettre pour une même nombre de contamination.
+### Les départements ont été comparés sur l'évolution des hospitalisations :
+- le nombre d'hospitalisation a été ramené au nombre d'habitant pour traduire la densité de contamination,
+- le nombre d'entrée à l'hopital a été remené au nombre d'hospitalisation pour traduire la vitesse de propagation du virus
 
-Remarques : les hospitalisations sont le reflet de la tendance des contanimations qui en l'absence de tests exhaustifs ne sont pas réellement représentatives.
+Le choix a été de dire que les hospitalisations sont un reflet fiable et proportionnel de la tendance des contaminationsa
+alors qu'en l'absence de tests à grande échelle, les cas testés positifs ne sont pas le reflet des contaminations.
+
+### Au 7 mai, deux catégories de département nécessitent de la vigilance (cf. courbe)
+- le département de la Haute-Marne dont la tendance repart à la hausse (ORANGE GRAS),
+- les 8 départements dont les hospitalisations sont élevée dont mais la tendance est à la baisse (ORANGE).
+
+L'écart entre ces derniers et les départements très peu touchés (VERT) est très important (facteur 10).
+
+![Courbe de l'évolution des hospitalisation par département](https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Images/Evolution%20des%20hospitalisations%20par%20departement_France.png)
