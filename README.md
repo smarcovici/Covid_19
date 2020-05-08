@@ -1,8 +1,8 @@
 # Evolution de l'épidémie de Covid 19 en France
 
-## Evolution des hospitalisations pendant le confinement du 18 mars au 11 mai 2020
+## Evolution des hospitalisations par département pendant le confinement du 18 mars au 11 mai 2020
 
-### les départements ont été comparés sur :
+### Les départements ont été comparés sur :
 - le nombre d'hospitalisation ramené au nombre d'habitant pour traduire la densité de contamination,
 - le nombre d'entrée à l'hopital remené au nombre d'hospitalisation pour traduire la vitesse de propagation du virus
 
