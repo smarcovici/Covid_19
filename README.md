@@ -1,4 +1,4 @@
-# Evolution du Covid 19 en France
+# Evolution de l'épidémie de Covid 19 en France
 
 ## Evolution des hospitalisations pendant le confinement du 18 mars au 11 mai 2020
 
@@ -11,7 +11,7 @@ alors qu'en l'absence de tests à grande échelle, les cas testés positifs ne s
 
 ### Bilan au 7 mai : deux catégories de département nécessitent de la vigilance (cf. courbe)
 - le département de la Haute-Marne dont la tendance repart à la hausse (ORANGE GRAS),
-- les 8 départements dont les hospitalisations sont élevés mais la tendance est à la baisse (ORANGE).
+- les 8 départements dont les hospitalisations sont élevée dont mais la tendance est à la baisse (ORANGE).
 
 Il existe un tiers des départements (en VERT) qui ont été très peu touchés relativement à moyenne nationale.
 
