@@ -14,4 +14,4 @@ Le choix a été de dire que les hospitalisations sont un reflet plus exhaustif 
 
 Il existe un certain nombre de département (VERT) qui ont été peu touché relativement à moyenne nationale.
 
-![Courbe de l'évolution des hospitalisation par département]()
+![Courbe de l'évolution des hospitalisation par département](https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Images/Evolution%20des%20hospitalisations%20par%20departement_France.png)
