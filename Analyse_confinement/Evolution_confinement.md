@@ -27,14 +27,14 @@
 ## Visualisation des résultats
 
 ###  Evolutions des hospitalisations par département
-- en ROUGE, les départements les plus critiques  selon les critères : 
-    - nb d'hospitalisation important
-    - avec un nb d'entrées important ou une tendance à la hausse
- - en ORANGE, les départements pour lesquels il faut être vigilant avec l'un des criètres :
-     - nb d'hospitalisation important avec un faible nb d'entrées et une tendance à la baisse
-     - ou nb d'entrées important
- - en GRIS, les départements prochent de la tendance moyenne de la France (NOIR)
- - en VERT, les département avec une faible circulation.
+- en ROUGE, les départements les plus critiques   : 
+    - le nombre d'hospitalisation est elevé
+    - et le nombre d'entrée est elevé ou repart à la hausse
+ - en ORANGE, les départements pour lesquels il faut être vigilant car :
+     - soit le nombre d'hospitalisation reste élevé
+     - soit le nombre d'entrée est à la hausse
+ - en GRIS, les départements avec une évolution proche de la moyenne nationale (en NOIR)
+ - en VERT, les département avec une évolution plus faible que la moyenne.
 
 
 ![png](Evolution_confinement_files/Evolution_confinement_12_0.png)
@@ -173,18 +173,18 @@
 
 
 
-### Commentaires à la date du :
+### Commentaires à la date du 7 mai 2020 :
 
 Les départements critiques sont :
-- la Seine Saint-denis avec
-    - une forte hospitalisation
-    - et une tendance qui diminue trop lentement
-- la Haute-Marne avec une tendance qui repart à la hausse
+- la Seine-Saint-Denis avec :
+    - un nombre d'hospitalisation élevé
+    - et une diminution très lente des entrées
+- la Haute-Marne dont les entées qui repart à la hausse
 
 ### Evolution des entrées en hospitalisation par département
 
 
-![png](Evolution_confinement_files/Evolution_confinement_19_0.png)
+![png](Evolution_confinement_files/Evolution_confinement_18_0.png)
 
 
 ### Commentaires
@@ -197,7 +197,7 @@ ce qui traduit une décélération de la circulation du virus
 ### Evolution pour la France entière des entrées et hospitalisations
 
 
-![png](Evolution_confinement_files/Evolution_confinement_22_0.png)
+![png](Evolution_confinement_files/Evolution_confinement_21_0.png)
 
 
 ### Evolution détaillée pour un département des hospitalisation et des entrées
@@ -214,15 +214,15 @@ ce qui traduit une décélération de la circulation du virus
 
 
 
-![png](Evolution_confinement_files/Evolution_confinement_25_0.png)
+![png](Evolution_confinement_files/Evolution_confinement_24_0.png)
 
 
 
-![png](Evolution_confinement_files/Evolution_confinement_25_1.png)
+![png](Evolution_confinement_files/Evolution_confinement_24_1.png)
 
 
 
-![png](Evolution_confinement_files/Evolution_confinement_25_2.png)
+![png](Evolution_confinement_files/Evolution_confinement_24_2.png)
 
 
 ## Enregistrement
@@ -230,18 +230,13 @@ ce qui traduit une décélération de la circulation du virus
 ### Sous Markdown
 
     [NbConvertApp] Converting notebook Evolution_confinement.ipynb to markdown
-    [NbConvertApp] Support files will be in Evolution_confinement_files\
-    [NbConvertApp] Making directory Evolution_confinement_files
-    [NbConvertApp] Making directory Evolution_confinement_files
-    [NbConvertApp] Making directory Evolution_confinement_files
-    [NbConvertApp] Making directory Evolution_confinement_files
-    [NbConvertApp] Making directory Evolution_confinement_files
-    [NbConvertApp] Making directory Evolution_confinement_files
-    [NbConvertApp] Writing 6149 bytes to Evolution_confinement.md
+    [NbConvertApp] Writing 2633 bytes to Evolution_confinement.md
     
 
 ### Sous HTML
 
     [NbConvertApp] Converting notebook Evolution_confinement.ipynb to html
-    [NbConvertApp] Writing 1307713 bytes to Evolution_confinement.html
+    [NbConvertApp] Writing 283796 bytes to Evolution_confinement.html
     
+
+## Fin
