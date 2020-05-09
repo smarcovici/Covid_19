@@ -38,6 +38,8 @@
 ![png](Evolution_confinement_files/Evolution_confinement_12_0.png)
 
 
+[Accès aux courbes](Images\)
+
 ### Tableau détaillé des départements critiques
 - hosp : nombre d'hospitalisation du département (dep)
 - Thosp : nombre d'hospitalisation pour 100 000 habitants
@@ -182,7 +184,7 @@ De plus il exsite de nombreux départements (VERT) qui ont été relativement pe
 ### Evolution des entrées en hospitalisation par département
 
 
-![png](Evolution_confinement_files/Evolution_confinement_18_0.png)
+![png](Evolution_confinement_files/Evolution_confinement_19_0.png)
 
 
 ### Commentaires
@@ -197,24 +199,44 @@ De plus il exsite de nombreux départements (VERT) qui ont été relativement pe
 ### Evolution des hospitalisations pour la France entière
 
 
-![png](Evolution_confinement_files/Evolution_confinement_21_0.png)
+![png](Evolution_confinement_files/Evolution_confinement_22_0.png)
 
 
 ### Evolution des hospitalisations sur quelques départements
-
-
-    interactive(children=(Dropdown(description='dep', options=('Ain', 'Aisne', 'Allier', 'Alpes-de-Haute-Provence'…
-
 
 #### Département de la Seine-Saint-Denis : les hospitalisations sont élevée mais la tendance est à la baisse
 c'est un exemple de département dont :
 - le nombre d'hospitalisation est certes élevé (BLEUE sur le deuxième graphique)
 - mais le nombre d'entrée est devenu faible (GRIS sur le 1er graphique) ce qui se traduit par une tendance à la baisse (BLEU sur le 1er graphique)
 
+
+![png](Evolution_confinement_files/Evolution_confinement_26_0.png)
+
+
+
+![png](Evolution_confinement_files/Evolution_confinement_26_1.png)
+
+
+
+![png](Evolution_confinement_files/Evolution_confinement_26_2.png)
+
+
 #### Département de la Haute-Marne : les entrées repartent à la hausse
 - le nombre d'entrée repart à la hausse (GRIS/BLEU sur le 1er graphique)
 - Cette hausse est élevée par rapport à la tendance des autres département (BLEU 3e graphique)
 - mais le nombre d'hospitalisation est encore dans la tendance moyenne (BLEU 2e graphique)
+
+
+![png](Evolution_confinement_files/Evolution_confinement_28_0.png)
+
+
+
+![png](Evolution_confinement_files/Evolution_confinement_28_1.png)
+
+
+
+![png](Evolution_confinement_files/Evolution_confinement_28_2.png)
+
 
 ## Sauvegarde des fichiers
 
