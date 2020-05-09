@@ -6,6 +6,6 @@
 [Ain][Ain]
 
 
-[Fr]: https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Images/Evolution%20des%20hospitalisations%20par%20departement_France.png
-[PdD]: https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Images/Evolution%20des%20hospitalisations%20par%20departement_Puy-de-Dôme.png
+[Fr]: Images/Evolution%20des%20hospitalisations%20par%20departement_France.png
+[PdD]: Images/Evolution%20des%20hospitalisations%20par%20departement_Puy-de-Dôme.png
 [Ain]: Images/Evolution%20des%20hospitalisations%20par%20departement_Ain.png
