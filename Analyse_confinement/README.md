@@ -9,12 +9,12 @@
 
 <FORM>
 <SELECT name="nom" size="5">
-<OPTION>lundi
+  <OPTION>lundi
   
-<OPTION>mardi
+  <OPTION>mardi
   
-<OPTION>mercredi
-<OPTION>jeudi
-<OPTION>vendredi
+  <OPTION>mercredi
+  <OPTION>jeudi
+  <OPTION>vendredi
 </SELECT>
 </FORM>
