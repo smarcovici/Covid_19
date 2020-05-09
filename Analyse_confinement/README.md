@@ -56,3 +56,6 @@
        </select>
    </p>
 </form>
+
+
+<input type="text" id="name" name="name"/>
