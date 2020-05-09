@@ -18,8 +18,9 @@ This is a sub paragraph, formatted in heading 3 style
 The second paragraph text
 
 
+## Selectionner un département
+[France][Fr] ou [Puy-de-Dôme][PdD]
 
-[urbanbike][uba] comme [Photager][pho]
 
-[pho]: http://photager.com
-[uba]: https://urbanbike.com
+[Fr]: https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Images/Evolution%20des%20hospitalisations%20par%20departement_France.png
+[Fr]: https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Images/Evolution%20des%20hospitalisations%20par%20departement_Puy-de-Dôme.png
