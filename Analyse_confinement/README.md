@@ -6,3 +6,13 @@
   <li>Mélangez la tomate et le concombre coupés</li>
   <li>Gardez au frais et servir rapidement avec des tortillas</li>
 </ol>
+
+<FORM>
+<SELECT name="nom" size="1">
+<OPTION>lundi
+<OPTION>mardi
+<OPTION>mercredi
+<OPTION>jeudi
+<OPTION>vendredi
+</SELECT>
+</FORM>
