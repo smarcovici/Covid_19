@@ -76,94 +76,94 @@
   </thead>
   <tbody>
     <tr>
-      <th>4844</th>
+      <th>4939</th>
       <td>94</td>
       <td>Val-de-Marne</td>
-      <td>1623.0</td>
-      <td>116</td>
+      <td>1606.0</td>
+      <td>115</td>
       <td>1</td>
       <td>0</td>
       <td>0</td>
     </tr>
     <tr>
-      <th>4742</th>
+      <th>4835</th>
       <td>92</td>
       <td>Hauts-de-Seine</td>
-      <td>1603.0</td>
-      <td>99</td>
-      <td>1</td>
-      <td>0</td>
-      <td>-6</td>
-    </tr>
-    <tr>
-      <th>4793</th>
-      <td>93</td>
-      <td>Seine-Saint-Denis</td>
-      <td>1379.0</td>
-      <td>85</td>
-      <td>2</td>
-      <td>0</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <th>3875</th>
-      <td>75</td>
-      <td>Paris</td>
-      <td>1863.0</td>
-      <td>84</td>
-      <td>0</td>
-      <td>0</td>
-      <td>-3</td>
-    </tr>
-    <tr>
-      <th>2855</th>
-      <td>55</td>
-      <td>Meuse</td>
-      <td>143.0</td>
-      <td>74</td>
-      <td>2</td>
-      <td>0</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <th>4691</th>
-      <td>91</td>
-      <td>Essonne</td>
-      <td>966.0</td>
-      <td>74</td>
-      <td>1</td>
-      <td>0</td>
-      <td>-8</td>
-    </tr>
-    <tr>
-      <th>3467</th>
-      <td>67</td>
-      <td>Bas-Rhin</td>
-      <td>786.0</td>
-      <td>69</td>
-      <td>1</td>
-      <td>0</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <th>4895</th>
-      <td>95</td>
-      <td>Val-d'Oise</td>
-      <td>818.0</td>
-      <td>66</td>
+      <td>1557.0</td>
+      <td>96</td>
       <td>1</td>
       <td>0</td>
       <td>-5</td>
     </tr>
     <tr>
-      <th>2702</th>
+      <th>4887</th>
+      <td>93</td>
+      <td>Seine-Saint-Denis</td>
+      <td>1367.0</td>
+      <td>84</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>3951</th>
+      <td>75</td>
+      <td>Paris</td>
+      <td>1819.0</td>
+      <td>83</td>
+      <td>0</td>
+      <td>0</td>
+      <td>-6</td>
+    </tr>
+    <tr>
+      <th>2911</th>
+      <td>55</td>
+      <td>Meuse</td>
+      <td>146.0</td>
+      <td>76</td>
+      <td>2</td>
+      <td>0</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>4783</th>
+      <td>91</td>
+      <td>Essonne</td>
+      <td>964.0</td>
+      <td>74</td>
+      <td>1</td>
+      <td>0</td>
+      <td>-4</td>
+    </tr>
+    <tr>
+      <th>3535</th>
+      <td>67</td>
+      <td>Bas-Rhin</td>
+      <td>765.0</td>
+      <td>67</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <th>4991</th>
+      <td>95</td>
+      <td>Val-d'Oise</td>
+      <td>813.0</td>
+      <td>66</td>
+      <td>1</td>
+      <td>0</td>
+      <td>-2</td>
+    </tr>
+    <tr>
+      <th>2755</th>
       <td>52</td>
       <td>Haute-Marne</td>
-      <td>91.0</td>
+      <td>90.0</td>
       <td>50</td>
       <td>8</td>
       <td>1</td>
-      <td>16</td>
+      <td>13</td>
     </tr>
   </tbody>
 </table>
@@ -202,62 +202,24 @@ De plus il exsite de nombreux départements (VERT) qui ont été relativement pe
 
 ### Evolution des hospitalisations sur quelques départements
 
+
+    interactive(children=(Dropdown(description='dep', options=('Ain', 'Aisne', 'Allier', 'Alpes-de-Haute-Provence'…
+
+
 #### Département de la Seine-Saint-Denis : les hospitalisations sont élevée mais la tendance est à la baisse
 c'est un exemple de département dont :
 - le nombre d'hospitalisation est certes élevé (BLEUE sur le deuxième graphique)
 - mais le nombre d'entrée est devenu faible (GRIS sur le 1er graphique) ce qui se traduit par une tendance à la baisse (BLEU sur le 1er graphique)
-
-
-![png](Evolution_confinement_files/Evolution_confinement_25_0.png)
-
-
-
-![png](Evolution_confinement_files/Evolution_confinement_25_1.png)
-
-
-
-![png](Evolution_confinement_files/Evolution_confinement_25_2.png)
-
 
 #### Département de la Haute-Marne : les entrées repartent à la hausse
 - le nombre d'entrée repart à la hausse (GRIS/BLEU sur le 1er graphique)
 - Cette hausse est élevée par rapport à la tendance des autres département (BLEU 3e graphique)
 - mais le nombre d'hospitalisation est encore dans la tendance moyenne (BLEU 2e graphique)
 
-
-![png](Evolution_confinement_files/Evolution_confinement_27_0.png)
-
-
-
-![png](Evolution_confinement_files/Evolution_confinement_27_1.png)
-
-
-
-![png](Evolution_confinement_files/Evolution_confinement_27_2.png)
-
-
 ## Sauvegarde des fichiers
 
 ### Sous Markdown
 
-    [NbConvertApp] Converting notebook Evolution_confinement.ipynb to markdown
-    [NbConvertApp] Support files will be in Evolution_confinement_files\
-    [NbConvertApp] Making directory Evolution_confinement_files
-    [NbConvertApp] Making directory Evolution_confinement_files
-    [NbConvertApp] Making directory Evolution_confinement_files
-    [NbConvertApp] Making directory Evolution_confinement_files
-    [NbConvertApp] Making directory Evolution_confinement_files
-    [NbConvertApp] Making directory Evolution_confinement_files
-    [NbConvertApp] Making directory Evolution_confinement_files
-    [NbConvertApp] Making directory Evolution_confinement_files
-    [NbConvertApp] Making directory Evolution_confinement_files
-    [NbConvertApp] Writing 7459 bytes to Evolution_confinement.md
-    
-
 ### Sous HTML
-
-    [NbConvertApp] Converting notebook Evolution_confinement.ipynb to html
-    [NbConvertApp] Writing 2334164 bytes to Evolution_confinement.html
-    
 
 ## Fin
