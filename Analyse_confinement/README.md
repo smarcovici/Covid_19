@@ -19,7 +19,8 @@ The second paragraph text
 
 
 ## Selectionner un département
-[France][Fr] ou [Puy-de-Dôme][PdD]
+[France][Fr]
+[Puy-de-Dôme][PdD]
 
 
 [Fr]: https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Images/Evolution%20des%20hospitalisations%20par%20departement_France.png
