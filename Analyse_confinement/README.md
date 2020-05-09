@@ -8,7 +8,7 @@
 </ol>
 
 <FORM>
-<SELECT name="nom" size="1">
+<SELECT name="nom" size="5">
 <OPTION>lundi
 <OPTION>mardi
 <OPTION>mercredi
