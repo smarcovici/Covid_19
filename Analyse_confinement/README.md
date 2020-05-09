@@ -10,7 +10,9 @@
 <FORM>
 <SELECT name="nom" size="5">
 <OPTION>lundi
+  
 <OPTION>mardi
+  
 <OPTION>mercredi
 <OPTION>jeudi
 <OPTION>vendredi
