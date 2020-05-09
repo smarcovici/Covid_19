@@ -20,6 +20,4 @@ Même si l'écart entre les départements (VERT/ORANGE) est très important (fac
 
 ![Courbe de l'évolution des hospitalisation par département](https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Images/Evolution%20des%20hospitalisations%20par%20departement_France.png)
 
-### Choisir un département
-
-![### choisir un département](Analyse_confinement/Images)
+![Lien vers les courbes par département](Analyse_confinement/Images)
