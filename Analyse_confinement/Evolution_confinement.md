@@ -40,7 +40,7 @@ La situtation des département en fin de confinement peut être rassemblée en d
 ![png](Evolution_confinement_files/Evolution_confinement_14_0.png)
 
 
-#### Chiffre détaillé pour les départements critiques
+#### Chiffres détaillés pour les départements critiques
 - hosp : nombre d'hospitalisation du département (dep)
 - Thosp : nombre d'hospitalisation pour 100 000 habitants
 - Treprodmoy : nombre moyen d'entrée sur 1 semaine pour 100 hospitalisations
@@ -246,11 +246,11 @@ c'est un exemple de département dont :
 ![png](Evolution_confinement_files/Evolution_confinement_29_2.png)
 
 
-## Identification des différentes  évolutions pendant le confinement
-L'objectif est de donner une piste de réflexion sur les  critères influençant l'impact du confinement.
+## Comparaison des différentes  évolutions pendant le confinement
+Cette comparaison a pour objectif de fournir une piste de reflexion pour analyser les différentes gestions du confinement dans les départements.
 
 ### Regroupement des départements par l'analyse des composantes principales
-Il s'agit de rechercher quelques courbes caractéristiques de l'évolution des hospitalisations pendant le confinement dont la combinaison permettrait d'expliquer de décrire l'évolution de chaque département.
+Il s'agit de rechercher quelques courbes caractéristiques de l'évolution des hospitalisations pendant le confinement dont la combinaison permettrait de décrire l'évolution de chaque département.
 
 ### Construction du modèle
 
