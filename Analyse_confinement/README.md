@@ -1,7 +1,7 @@
-# Dossier d'analyse de l'évolution des hospitalisations pendant le confinement
+# Ce dossier contient l'analyse de l'évolution des hospitalisations par département pendant le confinement 
 
-[Analyse détaillée](https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Evolution_confinement.md)
+[Analyse détaillée ne Markdown](https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Evolution_confinement.md)
 
-[Lignes de code en Python](https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Evolution_confinement.ipynb)
+[Programme en Python](https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Evolution_confinement.ipynb)
 
-[Dossier des courbes générées]()
+[Dossier d'enregistrement des courbes](https://github.com/smarcovici/Covid_19/tree/master/Analyse_confinement/Images)
