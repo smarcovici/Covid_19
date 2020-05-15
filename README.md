@@ -35,3 +35,7 @@ Alors que la situation hospitalière est proche en début de confinement (à l'e
 
 La recherche des causes de cette différence est une piste pour mieux comprendre comment le confinement impacte la circulation du virus et l'évolution des hospitalisations.
 
+## Pour plus de détails sur l'analyse du confinement
+
+[Lien vers le dossier analyse du confinement](https://github.com/smarcovici/Covid_19/tree/master/Analyse_confinement)
+
