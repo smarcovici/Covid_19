@@ -37,5 +37,5 @@ La recherche des causes de cette différence est une piste pour mieux comprendre
 
 ## Pour plus de détails sur l'analyse du confinement
 
-[Lien vers le dossier sur l'analyse de l'évolution des hospitalisation pendant le confinement](https://github.com/smarcovici/Covid_19/tree/master/Analyse_confinement)
+[Lien vers le dossier sur l'analyse de l'évolution des hospitalisations pendant le confinement](https://github.com/smarcovici/Covid_19/tree/master/Analyse_confinement)
 
