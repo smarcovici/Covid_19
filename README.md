@@ -10,8 +10,8 @@ Le choix a été de dire que les hospitalisations sont un reflet fiable et propo
 alors qu'en l'absence de tests à grande échelle, les cas testés positifs ne sont pas le reflet des contaminations.
 
 ### Au 14 mai, deux catégories de département nécessitent de la vigilance (cf. courbe)
-- les 3 départements de la Haute-Marne dont la tendance repart à la hausse (ORANGE EPAIS),
-- les 11 départements dont la tendance est à la baisse mais dont les hospitalisations restent élevées (ORANGE).
+- les 11 départements dont la tendance est à la baisse mais dont les hospitalisations restent élevées (ORANGE),
+- le département de l'Aude dont le nombre d'entrée repart à la hausse (ORANGE EPAIS).
 
 ### Le choix du confinement à l'échelle nationale se confirme :
 Même si l'écart entre les départements (VERT/ORANGE) est très important (facteur 10):
