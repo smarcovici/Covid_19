@@ -24,7 +24,7 @@ Même si l'écart entre les départements (VERT/ORANGE) est très important (fac
 
 ### L'évolution des hospitalisation d'un département peut être représentée par la combinaison de 2 courbes :
 - la première courbe indique si l'évolution des hospitalisations est au dessus ou en dessous de la moyenne nationale,
-- la deuxième courbe indique si la phase de décélération en fin de confinement est plus ou moins importante.
+- la deuxième courbe indique si la phase de décélération en fin de confinement est plus ou moins importante (pic plus ou moins marqué).
 
 ### Cette décomposition a permis d'identifier les exemples suivants d'évolution :
 
