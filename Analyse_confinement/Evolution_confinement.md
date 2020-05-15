@@ -335,13 +335,13 @@ La recherche des causes de cette différence est une piste pour mieux comprendre
     [NbConvertApp] Making directory Evolution_confinement_files
     [NbConvertApp] Making directory Evolution_confinement_files
     [NbConvertApp] Making directory Evolution_confinement_files
-    [NbConvertApp] Writing 12000 bytes to Evolution_confinement.md
+    [NbConvertApp] Writing 11975 bytes to Evolution_confinement.md
     
 
 ### Sous HTML
 
     [NbConvertApp] Converting notebook Evolution_confinement.ipynb to html
-    [NbConvertApp] Writing 2532534 bytes to Evolution_confinement.html
+    [NbConvertApp] Writing 2525722 bytes to Evolution_confinement.html
     
 
 ## Annexe
