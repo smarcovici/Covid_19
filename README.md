@@ -20,4 +20,18 @@ Même si l'écart entre les départements (VERT/ORANGE) est très important (fac
 
 ![Courbe de l'évolution des hospitalisation par département](https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Images/Evolution%20des%20hospitalisations_France.png)
 
+## Comparaison par déparement de l'évolution des hospitalisation pendant le confinement
+
+### L'évolution des hospitalisation d'un département peut être représentée par la combinaison de 2 courbes :
+- la première courbe indique si l'évolution des hospitalisations est au dessus ou en dessous de la moyenne nationale,
+- la deuxième courbe indique si la phase de décélération en fin de confinement est plus ou moins importante (pic plus ou moins marqué).
+
+### Cette décomposition a permis d'identifier les exemples suivants d'évolution :
+
+![Courbe de l'évolution des hospitalisation par catégorie de département](https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Images/Evolution%20des%20hospitalisations%20par%20cat%C3%A9gorie%20de%20d%C3%A9partement.png)
+
+### Cette comparaison est une piste de reflexion pour analyser l'impact du confinement sur l'évolution des hospitalisations
+Alors que la situation hospitalière est proche en début de confinement (à l'exception du Haut-Rhin), cette comparaison met en évidence qu'à partir de règles uniformes et strictes du confinement, l'évolution des hospitalisations n'a pas été identique dans tous les départements.
+
+La recherche des causes de cette différence est une piste pour mieux comprendre comment le confinement impacte la circulation du virus et l'évolution des hospitalisations.
 
