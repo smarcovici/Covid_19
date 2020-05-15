@@ -29,5 +29,5 @@ Même si l'écart entre les départements (VERT/ORANGE) est très important (fac
 ### Cette décomposition a permis d'identifier les différents exemples d'évolution :
 
 ![Courbe de l'évolution des hospitalisation par département]
-(https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Images/Evolution%20des%20hospitalisations_France.png)
+(https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Images/Evolution%20des%20hospitalisations%20par%20cat%C3%A9gorie%20de%20d%C3%A9partement.png)
 
