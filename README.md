@@ -26,7 +26,7 @@ Même si l'écart entre les départements (VERT/ORANGE) est très important (fac
 - la première courbe indique si l'évolution des hospitalisations est au dessus ou en dessous de la moyenne nationale,
 - la deuxième courbe indique si la phase de décélération en fin de confinement est plus ou moins importante.
 
-### Cette décomposition a permis d'identifier les différents exemples d'évolution :
+### Cette décomposition a permis d'identifier les exemples suivants d'évolution :
 
 ![Courbe de l'évolution des hospitalisation par catégorie de département](https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Images/Evolution%20des%20hospitalisations%20par%20cat%C3%A9gorie%20de%20d%C3%A9partement.png)
 
