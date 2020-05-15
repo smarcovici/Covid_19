@@ -1,6 +1,6 @@
 # Ce dossier contient l'analyse de l'évolution des hospitalisations par département pendant le confinement 
 
-[Analyse détaillée ne Markdown](https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Evolution_confinement.md)
+[Analyse détaillée en Markdown](https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Evolution_confinement.md)
 
 [Programme en Python](https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Evolution_confinement.ipynb)
 
