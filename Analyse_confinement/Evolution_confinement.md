@@ -19,8 +19,6 @@
 - lissage de ce rapport sur 1 semaine pour améliorer la lisibilité
 - calcul de la tendance de ce rapport sur 2 semaines (pente)
 
-     departement :  999
-
 ### Classification des départements
 - par nombre d'hospitalisation (ramené à 100 000 habitant)
 - par nombre d'entrées (ramené à 100 hospitalisation)
@@ -177,24 +175,6 @@ La situtation des département en fin de confinement peut être rassemblée en d
       <td>0</td>
     </tr>
     <tr>
-      <th>1253</th>
-      <td>23</td>
-      <td>Creuse</td>
-      <td>17.0</td>
-      <td>14</td>
-      <td>6</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <th>2678</th>
-      <td>46</td>
-      <td>Lot</td>
-      <td>12.0</td>
-      <td>7</td>
-      <td>6</td>
-      <td>1</td>
-    </tr>
-    <tr>
       <th>626</th>
       <td>11</td>
       <td>Aude</td>
@@ -213,7 +193,7 @@ La situtation des département en fin de confinement peut être rassemblée en d
 
 Les 11 premiers départements ci-dessus dont le nombre d'hospitalisation est le plus élevé ont une tendance à la baisse car les entrées sont faibles : cf. l'exemple qui suit sur le Val de Marne.
 
-Les 3 derniers départements ont certes un nombre peu élevé d'hospitalisation mais le nombre d'entrée qui repart à la hausse amène à la vigilance : cf. l'exemple qui suit sur l'Aude.
+Le département de l'Aude a un nombre peu élevé d'hospitalisation mais le nombre d'entrée qui repart à la hausse amène à la vigilance : cf. l'exemple qui suit.
 
 De plus il exsite de nombreux départements (VERT) qui ont été relativement peu touchés (10 fois moins).
 
@@ -350,13 +330,18 @@ La recherche des causes de cette différence est une piste pour mieux comprendre
     [NbConvertApp] Making directory Evolution_confinement_files
     [NbConvertApp] Making directory Evolution_confinement_files
     [NbConvertApp] Making directory Evolution_confinement_files
-    [NbConvertApp] Writing 8030 bytes to Evolution_confinement.md
+    [NbConvertApp] Making directory Evolution_confinement_files
+    [NbConvertApp] Making directory Evolution_confinement_files
+    [NbConvertApp] Making directory Evolution_confinement_files
+    [NbConvertApp] Making directory Evolution_confinement_files
+    [NbConvertApp] Making directory Evolution_confinement_files
+    [NbConvertApp] Writing 12000 bytes to Evolution_confinement.md
     
 
 ### Sous HTML
 
     [NbConvertApp] Converting notebook Evolution_confinement.ipynb to html
-    [NbConvertApp] Writing 1861604 bytes to Evolution_confinement.html
+    [NbConvertApp] Writing 2532534 bytes to Evolution_confinement.html
     
 
 ## Annexe
