@@ -2,7 +2,7 @@
 
 ## Tendance par département en fin de confinement
 
-### L'évolution des hospitalisations a été comparée par département du 18 mars au 14 mai 2020 :
+### L'évolution des hospitalisations a été comparée par département du 18 mars au 21 mai 2020 :
 - le nombre d'hospitalisation a été ramené au nombre d'habitant pour traduire la densité de contamination,
 - le nombre d'entrée à l'hopital a été remené au nombre d'hospitalisation pour traduire la vitesse de propagation du virus
 
@@ -11,7 +11,7 @@ alors qu'en l'absence de tests à grande échelle, les cas testés positifs ne s
 
 ### Au 21 mai, deux catégories de département nécessitent de la vigilance (cf. courbe)
 - les 10 départements dont la tendance est à la baisse mais dont les hospitalisations restent élevées (ORANGE),
-- le département de l'Aude, Isère, Allier et Guyane dont le nombre d'entrée repart à la hausse (ORANGE EPAIS).
+- les 3 départements dont le nombre d'entrée repart à la hausse (ORANGE EPAIS).
 
 ### Le choix du confinement à l'échelle nationale se confirme :
 Même si l'écart entre les départements (VERT/ORANGE) est très important (facteur 10):
@@ -22,11 +22,7 @@ Même si l'écart entre les départements (VERT/ORANGE) est très important (fac
 
 ## Comparaison des départements pendant le confinement
 
-### L'évolution des hospitalisation d'un département peut être représentée par la combinaison de 2 courbes :
-- la première courbe indique si l'évolution des hospitalisations est au dessus ou en dessous de la moyenne nationale,
-- la deuxième courbe indique si la phase de décélération en fin de confinement est plus ou moins importante (courbe plus ou moins applatie).
-
-### Cette décomposition a permis d'identifier les exemples caractéristiques suivants :
+### Les différents types d'évolutions sont représentées par les département suivant : 
 
 ![Courbe de l'évolution des hospitalisation par catégorie de département](https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Images/Evolution%20des%20hospitalisations%20par%20cat%C3%A9gorie%20de%20d%C3%A9partement.png)
 
