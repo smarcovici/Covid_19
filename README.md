@@ -22,11 +22,7 @@ Même si l'écart entre les départements (VERT/ORANGE) est très important (fac
 
 ## Comparaison des départements pendant le confinement
 
-### L'évolution des hospitalisation d'un département peut être représentée par la combinaison de 2 courbes :
-- la première courbe indique si l'évolution des hospitalisations est au dessus ou en dessous de la moyenne nationale,
-- la deuxième courbe indique si la phase de décélération en fin de confinement est plus ou moins importante (courbe plus ou moins applatie).
-
-### Cette décomposition a permis d'identifier les exemples caractéristiques suivants :
+### Les différents types d'évolutions sont représentées par les département suivant : 
 
 ![Courbe de l'évolution des hospitalisation par catégorie de département](https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Images/Evolution%20des%20hospitalisations%20par%20cat%C3%A9gorie%20de%20d%C3%A9partement.png)
 
