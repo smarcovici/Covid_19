@@ -11,7 +11,7 @@ alors qu'en l'absence de tests à grande échelle, les cas testés positifs ne s
 
 ### Au 21 mai, deux catégories de département nécessitent de la vigilance (cf. courbe)
 - les 10 départements dont la tendance est à la baisse mais dont les hospitalisations restent élevées (ORANGE),
-- le département de l'Aude, Isère, Allier et Guyane dont le nombre d'entrée repart à la hausse (ORANGE EPAIS).
+- les 3 départements dont le nombre d'entrée repart à la hausse (ORANGE EPAIS).
 
 ### Le choix du confinement à l'échelle nationale se confirme :
 Même si l'écart entre les départements (VERT/ORANGE) est très important (facteur 10):
