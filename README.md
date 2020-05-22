@@ -27,11 +27,11 @@ Même si l'écart entre les départements (VERT/ORANGE sur la 1ère courbe) est 
 ![Courbe de l'évolution des hospitalisation par catégorie de département](https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Images/Evolution%20des%20hospitalisations%20par%20cat%C3%A9gorie%20de%20d%C3%A9partement.png)
 
 ### Cette comparaison est une piste de reflexion pour analyser l'impact du confinement
-Alors que la situation hospitalière est proche en début de confinement (à l'exception du Haut-Rhin), cette comparaison met en évidence qu'à partir de règles uniformes et strictes du confinement, l'évolution des hospitalisations n'a pas été identique dans tous les départements. Par exemple, contrairement à l'Indre, les Pyrénées orientales ont rapidement ralenti la croissance.
+Alors que la situation hospitalière est proche en début de confinement (à l'exception du Haut-Rhin), cette comparaison met en évidence qu'à partir de règles uniformes et strictes du confinement, l'évolution des hospitalisations n'a pas été identique dans tous les départements. Par exemple, contrairement à l'Indre (ROSE), les Pyrénées orientales (VERT) ont fortement ralenti la croissance des cas.
 
 La recherche des causes de cette différence est une piste pour mieux comprendre comment le confinement impacte la circulation du virus et l'évolution des hospitalisations.
 
-## Pour plus de détails sur l'analyse du confinement
+## Pour une analyse détaillée de l'effet du confinement sur les hopitalisations
 
 [Lien vers le dossier sur l'analyse de l'évolution des hospitalisations pendant le confinement](https://github.com/smarcovici/Covid_19/tree/master/Analyse_confinement)
 
