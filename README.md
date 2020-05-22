@@ -10,7 +10,7 @@ Le choix a été de dire que les hospitalisations sont un reflet fiable et propo
 alors qu'en l'absence de tests à grande échelle, les cas testés positifs ne sont pas le reflet des contaminations.
 
 ### Au 21 mai, deux catégories de département nécessitent de la vigilance (cf. courbe)
-- les 10 départements dont la tendance est à la baisse mais dont les hospitalisations restent élevées (ORANGE),
+- les 10 départements dont la tendance est à la baisse mais dont les hospitalisations restent élevées (ORANGE FIN),
 ![Courbe de l'évolution des hospitalisation par département](https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Images/Evolution%20des%20hospitalisations_France.png)
 - les 3 départements dont le nombre d'entrée repart à la hausse (ORANGE EPAIS).
 ![Courbe de l'évolution des entrées par département](https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Images/Evolution%20des%20Entrées_France.png)
