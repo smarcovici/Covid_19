@@ -16,20 +16,18 @@ alors qu'en l'absence de tests à grande échelle, les cas testés positifs ne s
 ![Courbe de l'évolution des entrées par département](https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Images/Evolution%20des%20entr%C3%A9es_France.png)
 
 ### Le choix du confinement à l'échelle nationale se confirme :
-Même si l'écart entre les départements (VERT/ORANGE) est très important (facteur 10):
+Même si l'écart entre les départements (VERT/ORANGE sur la 1ère courbe) est très important (facteur 10):
 - la tendance a d'abord été globalement à la hausse : ce qui justifie à postériori le choix du confinement,
 - ensuite à partir du 15 avril, la tendance est  à la baisse : ce qui montre l'impact du confinement.
 
-![Courbe de l'évolution des hospitalisation par département](https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Images/Evolution%20des%20hospitalisations_France.png)
-
 ## Comparaison des départements pendant le confinement
 
-### Les différents types d'évolutions sont représentées par les département suivant : 
+### Les différentes courbes d'évolution sont représentées par les département suivant : 
 
 ![Courbe de l'évolution des hospitalisation par catégorie de département](https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Images/Evolution%20des%20hospitalisations%20par%20cat%C3%A9gorie%20de%20d%C3%A9partement.png)
 
-### Cette comparaison est une piste de reflexion pour analyser l'impact du confinement sur l'évolution des hospitalisations
-Alors que la situation hospitalière est proche en début de confinement (à l'exception du Haut-Rhin), cette comparaison met en évidence qu'à partir de règles uniformes et strictes du confinement, l'évolution des hospitalisations n'a pas été identique dans tous les départements.
+### Cette comparaison est une piste de reflexion pour analyser l'impact du confinement
+Alors que la situation hospitalière est proche en début de confinement (à l'exception du Haut-Rhin), cette comparaison met en évidence qu'à partir de règles uniformes et strictes du confinement, l'évolution des hospitalisations n'a pas été identique dans tous les départements. Par exemple, contrairement à l'Indre, les Pyrénées orientales ont rapidement ralenti la croissance.
 
 La recherche des causes de cette différence est une piste pour mieux comprendre comment le confinement impacte la circulation du virus et l'évolution des hospitalisations.
 
