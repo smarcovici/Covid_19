@@ -1,4 +1,4 @@
-# Ce dossier concerne l'analyse de l'évolution des hospitalisations par département pendant le confinement 
+# Analyse de l'évolution des hospitalisations par département pendant le confinement 
 
 [Analyse complète](https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Evolution_confinement.md)
 
