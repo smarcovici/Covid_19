@@ -216,6 +216,27 @@ Remarque : étant 10 jours après la fin du confinement, les entrées en hopital
 ![png](Evolution_confinement_files/Evolution_confinement_21_0.png)
 
 
+
+    ---------------------------------------------------------------------------
+
+    NameError                                 Traceback (most recent call last)
+
+    <ipython-input-8-5ff18122f076> in <module>
+         30     pyplot.show()
+         31     if dep == 'France':fig1.savefig('Images\Evolution des entrées_' + dep + '.png')
+    ---> 32 courbe_TEntree('France')
+    
+
+    <ipython-input-8-5ff18122f076> in courbe_TEntree(dep)
+         29     pyplot.legend(loc='upper right')
+         30     pyplot.show()
+    ---> 31     if dep == 'France':fig1.savefig('Images\Evolution des entrées_' + dep + '.png')
+         32 courbe_TEntree('France')
+    
+
+    NameError: name 'fig1' is not defined
+
+
 #### Commentaires sur la propagation du virus en fin de confinement
 2 phases dans l'évolution de la circulation pendant le confinement :
 - jusqu'au 25 mars, tous les départements ont eu une augmentation significative des entrées (20 entrées pour 100 hospitalisaions) :
@@ -232,22 +253,9 @@ c'est un exemple de département dont :
 - le nombre d'hospitalisation est certes élevé (BLEU sur le 1er  graphique) par rapport à la moyenne de la France (NOIR)
 - mais le nombre d'entrée est devenu faible (BLEU sur le 2ème graphique) ce qui se traduit par une tendance à la baisse
 
-
-![png](Evolution_confinement_files/Evolution_confinement_26_0.png)
-
-
-
-![png](Evolution_confinement_files/Evolution_confinement_26_1.png)
-
-
 #### Département de l'Aude : une augmentation récente des entrées nécessite de la vigilence. 
 - le nombre d'hospitalisation est encore relativement faible (BLEU) par rapport à la France (NOIR EPAIS)
-- mais le nombre d'entrée repart à la hausse (GRIS EPAIS)
-- et est élevée par rapport à la tendance moyenne de la France (NOIR FIN)
-
-
-![png](Evolution_confinement_files/Evolution_confinement_28_0.png)
-
+- mais le nombre d'entrée repart à la hausse (GRIS EPAIS) et est élevé par rapport à la France (NOIR FIN)
 
 ## Comparaison des différentes  évolutions pendant le confinement
 Cette comparaison a pour objectif de fournir une piste de reflexion pour analyser les différentes gestions du confinement dans les départements.
@@ -259,34 +267,11 @@ Il s'agit de rechercher quelques courbes caractéristiques de l'évolution des h
 
 ### Impact des différentes composantes
 
-
-![png](Evolution_confinement_files/Evolution_confinement_34_0.png)
-
-
 Les deux premières composantes expliquent 98 % de la courbe de l'évolution des hospitalisations de chaque département.
 Les composantes suivantes ne sont donc pas retenues.
 ### Lancement de l'analyse avec 2 composantes
 
-
-
-
-    PCA(copy=True, iterated_power='auto', n_components=2, random_state=None,
-        svd_solver='auto', tol=0.0, whiten=False)
-
-
-
 ### Visualisation des courbes caractéristiques qui permettent de decomposer l'évolution par département
-
-
-
-
-    Text(0, 0.5, 'nb hospitalisation / 100 000 habitants')
-
-
-
-
-![png](Evolution_confinement_files/Evolution_confinement_38_1.png)
-
 
 Le poids de la première composante (courbe bleue) représente le décalage à la hausse ou à la baisse par rapport à l'évolution moyenne des hospitalisations quotidienne (courbe noire).
 Cela traduit qu'un département a été  plus ou moins globalement impacté.
@@ -300,10 +285,6 @@ La deuxième composante (courbe orange) indique si un département a eu une évo
 
 #### Poids de chaque composante par départements
 
-
-![png](Evolution_confinement_files/Evolution_confinement_42_0.png)
-
-
 #### Interprétation des différentes catégories de département : 
 - en haute à droite : département fortement impacté avec une baisse relativement plus significative en fin de période (Haut-Rhin / courbe orange ci-dessous)
 - en bas à droite : département fortement impacté et dont la tendance s'est relativement peu améliorée (Val-de-Marne / courbe rouge ci-dessous)
@@ -314,10 +295,6 @@ La deuxième composante (courbe orange) indique si un département a eu une évo
 
 #### Illustration des différentes catégories de département
 
-
-![png](Evolution_confinement_files/Evolution_confinement_45_0.png)
-
-
 #### Piste de réflexion pour la suite
 Alors que la situation hospitalière est proche en début de confinement (à l'exception du Haut-Rhin), cette comparaison met en évidence que malgré les règles uniformes et strictes du confinement, l'évolution des hospitalisations n'a pas été identique dans tous les départements.
 
@@ -327,37 +304,8 @@ La recherche des causes de cette différence est une piste pour mieux comprendre
 
 ### Sous Markdown
 
-    [NbConvertApp] Converting notebook Evolution_confinement.ipynb to markdown
-    [NbConvertApp] Support files will be in Evolution_confinement_files\
-    [NbConvertApp] Making directory Evolution_confinement_files
-    [NbConvertApp] Making directory Evolution_confinement_files
-    [NbConvertApp] Making directory Evolution_confinement_files
-    [NbConvertApp] Making directory Evolution_confinement_files
-    [NbConvertApp] Making directory Evolution_confinement_files
-    [NbConvertApp] Making directory Evolution_confinement_files
-    [NbConvertApp] Making directory Evolution_confinement_files
-    [NbConvertApp] Making directory Evolution_confinement_files
-    [NbConvertApp] Making directory Evolution_confinement_files
-    [NbConvertApp] Writing 11234 bytes to Evolution_confinement.md
-    
-
 ### Sous HTML
-
-    [NbConvertApp] Converting notebook Evolution_confinement.ipynb to html
-    [NbConvertApp] Writing 1747737 bytes to Evolution_confinement.html
-    
 
 ## Annexe
 
 ### Interface pour visualiser un département
-
-
-    interactive(children=(Dropdown(description='departement', index=63, options=('Ain', 'Aisne', 'Allier', 'Alpes-…
-
-
-
-
-
-    <function __main__.donnees_departement(departement)>
-
-
