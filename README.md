@@ -13,7 +13,7 @@ alors qu'en l'absence de tests à grande échelle, les cas testés positifs ne s
 - les 10 départements dont la tendance est à la baisse mais dont les hospitalisations restent élevées (ORANGE FIN),
 ![Courbe de l'évolution des hospitalisation par département](https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Images/Evolution%20des%20hospitalisations_France.png)
 - les 3 départements dont le nombre d'entrée repart à la hausse (ORANGE EPAIS).
-![Courbe de l'évolution des entrées par département](https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Images/Evolution%20des%20Entrées_France.png)
+![Courbe de l'évolution des entrées par département](https://github.com/smarcovici/Covid_19/blob/master/Analyse_confinement/Images/Evolution%20des%20entr%C3%A9es_France.png)
 
 ### Le choix du confinement à l'échelle nationale se confirme :
 Même si l'écart entre les départements (VERT/ORANGE) est très important (facteur 10):
