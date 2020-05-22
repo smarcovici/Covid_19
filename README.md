@@ -2,7 +2,7 @@
 
 ## Tendance par département en fin de confinement
 
-### L'évolution des hospitalisations a été comparée par département du 18 mars au 14 mai 2020 :
+### L'évolution des hospitalisations a été comparée par département du 18 mars au 21 mai 2020 :
 - le nombre d'hospitalisation a été ramené au nombre d'habitant pour traduire la densité de contamination,
 - le nombre d'entrée à l'hopital a été remené au nombre d'hospitalisation pour traduire la vitesse de propagation du virus
 
