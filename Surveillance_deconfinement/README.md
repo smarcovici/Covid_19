@@ -1,6 +1,6 @@
 # Evolution des hospitalisations pendant le déconfinement
 
-## Description des répertoires
+## Organisation du dossier
 - Donnees : données sources
 
 - Surveillance_deconfinement.ipynb : programme sous ipython de surveillance de l'évolution
