@@ -1,4 +1,4 @@
-# Dossiser sur l'évolution des hospitalisations par département pendant le déconfinement
+# Evolution des hospitalisations pendant le déconfinement
 
 ## Description des répertoires
 - Donnees : données sources
