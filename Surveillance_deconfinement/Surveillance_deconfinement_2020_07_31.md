@@ -165,7 +165,7 @@ La **Guyane** (en ROSE) a un taux élevé depuis fin mai et une légère diminut
 
 La hausse des tests positifs de la **Mayenne** (JAUNE) ne s'est pas traduit par une hausse très marquée des entrées à l'hôpital.
 
-### B-2 - Alerte les entrées à l'hôpital
+### B-2 - Alerte sur les entrées à l'hôpital
 ##### Description :
 Le graphique de **gauche** permet de suivre **l'évolution hospitalière** :
 - taux d'hospitalisation (BLEU) pour le département / (NOIR EPAIS) pour la France,
