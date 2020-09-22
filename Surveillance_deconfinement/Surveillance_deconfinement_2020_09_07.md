@@ -253,7 +253,7 @@ La forte hausse des hospitalisations de l'**Hérault** observée la semaine dern
 
 Par contre, les **Bouches du Rhône** ont depuis 10 jours une accélération de la circulation du virus. Si cette dynamique se poursuit dans les deux prochaines semaines, le taux d'hospitalisation se rapprocha de la valeur de la moyenne nationale du pic d'épidémie de début avril. Cela montre que les mesures actuelles (gestes barrières et les dépistages massifs) sont insuffisantes :
 - pour les autres départements, c'est une alerte pour les renforcer,
-- par si on souhaite ne pas se retrouver au niveau de début avril dans les Bouches du Rhône, il semble risquer de ne s'appuyer que sur une amélioration significative de ce type de mesure contrairement aux mesures plus strictes (confinement ciblé, limitation des interactions sociales) qui ont un effet plus fiable et immédiat.
+- pour les Bouches du Rhône, si on souhaite ne pas se retrouver au niveau de début avril, il semble risquer de ne s'appuyer que sur une amélioration significative de ce type de mesure, contrairement aux mesures plus strictes (confinement ciblé, limitation des interactions sociales) qui ont un effet plus fiable et immédiat.
 
 
     Merci pour votre attention.
