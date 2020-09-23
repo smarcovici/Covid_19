@@ -247,11 +247,11 @@ La hausse généralisée depuis mi-juillet des tests virologiques positifs  ne s
 
 Pour la **Guyane**, L'épidémie ralentit.
 
-La hausse des hospitalisations de la **Guadeloupe** nécessitent des mesures plus strictes.
+La hausse des hospitalisations de la **Guadeloupe** nécessite des mesures plus strictes.
 
 Pour les **Bouches du Rhône** et le **Rhône**, la stabilisation récente des entrées à l'hôpital nécessite d'être confirmé pour s'assurer que les mesures strictes mises en place sont suffisantes.
 
-**Paris, les Yvelines, la Seine-saint-Denis, les Hauts de Seine et la Haute-Garonne** ont  une hausse progressive mais légère des hospitalisations qui ne justifie pas actuellement de mesures trop restrictives (limitation des interactions sociales, confinement local) mais plus une amélioration de l'efficacité des mesures en cours (tests de dépistage et gestes barrières).
+**Paris, les Yvelines, la Seine-saint-Denis, les Hauts de Seine et la Haute-Garonne** ont  une hausse progressive mais légère des hospitalisations qui ne justifie pas de mesures immédiates trop restrictives (réduction des interactions sociales, confinement local) mais plus une amélioration de l'efficacité des mesures moins pénalisantes pour l'économie et la vie sociale (tests de dépistage et gestes barrières).
 
 **La Maine-et-Loire, le Calvados, la Savoie, la Martinique, la Haute-Vienne, l'Indre-et-Loire, la Saône-et-Loire, le Val-de-Marne, le Val-d'Oise et la Loire** ont une augmentation récente des entrées à l'hopital dont la confirmation nécessiterait des mesures plus strictes.
 
