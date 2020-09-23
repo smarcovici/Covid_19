@@ -251,7 +251,7 @@ La hausse des hospitalisations de la **Guadeloupe** nécessitent des mesures plu
 
 Pour les **Bouches du Rhône** et le **Rhône**, la stabilisation récente des entrées à l'hôpital nécessite d'être confirmé pour s'assurer que les mesures strictes mises en place sont suffisantes.
 
-**Paris, les Yvelines, la Seine-saint-Denis, les Hauts de Seine et la Haute-Garonne** ont  une hausse progressive mais légère des hospitalisations qui ne justifie pas actuellement de mesures plus strictes.
+**Paris, les Yvelines, la Seine-saint-Denis, les Hauts de Seine et la Haute-Garonne** ont  une hausse progressive mais légère des hospitalisations qui ne justifie pas actuellement de mesures trop restrictives (limitation interactions sociales, confinement local) mais une plus grande efficacité des mesures en cours (tests de dépistage et gestes barrières).
 
 **La Maine-et-Loire, le Calvados, la Savoie, la Martinique, la Haute-Vienne, l'Indre-et-Loire, la Saône-et-Loire, le Val-de-Marne, le Val-d'Oise et la Loire** ont une augmentation récente des entrées à l'hopital dont la confirmation nécessiterait des mesures plus strictes.
 
